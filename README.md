@@ -1,5 +1,7 @@
 # Real Time gps tracking system for Android devices
 
+![alt text](https://github.com/NomadXD/gpsTracker/blob/master/lib/web.png)
+
 This project is a combination of an android application that tracks users by gps and a web application that displays users current location in real time.
 
 ## Getting Started
