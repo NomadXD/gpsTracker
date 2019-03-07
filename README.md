@@ -110,4 +110,4 @@ To be updated in the readme in the next version
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* Special thanks to Dr.Uthayasanker Thayasivam for the guidance.
+* Special thanks to Dr.Uthayasanker Thayasivam,Senior Lecturer of University of Moratuwa,Sri Lanka for the guidance.
